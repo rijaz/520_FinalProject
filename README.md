@@ -25,7 +25,7 @@ Dacon, J., & Liu, H. (2021, April). Does gender matter in the news? detecting an
 
 Two to four bullet points describing the data you are using and the method you plan on using.
 
-- We will be using the Newscatcher API (that is available as a Python package) to gather data for our project.
+- We will be using the Newscatcher API (https://newscatcherapi.com/) that is available as a Python package to gather data for our project. 
 - Data will include the following relevant information:
       1. Title: The title of the article
       2. Author: The author of the article
